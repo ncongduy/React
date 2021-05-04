@@ -2,3 +2,4 @@ Client ID 	uOGajtC9IV0aJpD-DfkymA
 
 API Key		Kqnx7dzynVsFI1L8txqLhqGmWkQdCSjnWxuXZBOsAeuMBfg10ODYdcF4vAirlpODox5ZCIERKHNq-v1pTrKb_mQpbVbYla7ADI2TSaXmFA2lSh53sKUGsgeXwkuHX3Yx
 
+Create a temporary access to the demo server link: https://cors-anywhere.herokuapp.com/corsdemo
